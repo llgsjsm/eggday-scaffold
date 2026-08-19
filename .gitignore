@@ -1,0 +1,39 @@
+# Bulky evidence and generated material. The scaffold tracks notes, not artifacts.
+**/artifacts/
+_shared/*/
+incoming/*
+!incoming/README.md
+
+# Archives, images, and captures
+*.7z
+*.zip
+*.tar
+*.tar.*
+*.gz
+*.zst
+*.gpg
+*.asc
+*.iso
+*.img
+*.qcow2
+*.vmdk
+*.vdi
+*.core
+*.dmp
+*.pcap
+*.pcapng
+*.mp4
+
+# Build and tooling noise
+__pycache__/
+*.pyc
+*.o
+*.ko
+*.obj
+*.exe
+.DS_Store
+Thumbs.db
+
+# Uncomment to keep target work entirely local and publish only the scaffold:
+# targets/*/
+# !targets/README.md
