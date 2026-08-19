@@ -1,5 +1,7 @@
 # Eggday Vulnerability Research Scaffold
 
+I vibe coded this README.md :P
+
 A lightweight, agent-friendly scaffold for responsible vulnerability research:
 start from a small threat model, audit one thin slice, verify with safe
 evidence, check novelty, then report or park.
